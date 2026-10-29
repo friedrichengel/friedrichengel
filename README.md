@@ -1,7 +1,4 @@
-<a href="https://github.com/friedrichengel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=friedrichengel&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=friedrichengel&langs_count=4&line_height=345&theme=dark" />
-</a>
+![GitHubCard](https://githubcard.com/friedrichengel.svg)
 
 <!--
 **friedrichengel/friedrichengel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
